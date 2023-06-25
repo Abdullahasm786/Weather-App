@@ -19,7 +19,7 @@ body{
     text-align: center;
 }
 .search{
-    width:60%;
+    width:60px;
     align-items: center;
     justify-content: space-between;
     font-size: 20px;
