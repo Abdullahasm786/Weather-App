@@ -50,6 +50,7 @@ body{
 .search button img{
     padding-top: 10px;
     width: 20px;
+    display: flex;
 }
 /* .weatherIcon{
      width: 170px;
